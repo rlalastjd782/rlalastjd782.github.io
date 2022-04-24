@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "MIn Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하시와요~"
+  bio              : # ""
   # location         : "Somewhere"
   email            :
   links:
@@ -288,3 +288,5 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
