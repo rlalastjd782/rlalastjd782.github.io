@@ -3,7 +3,7 @@ title:  "JAVA 설치하기"
 excerpt : "JAVA를 설치한다."
 
 categories:
-  - java
+  - Java
 tags:
   - 
 
