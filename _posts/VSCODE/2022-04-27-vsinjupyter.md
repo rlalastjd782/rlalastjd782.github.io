@@ -20,7 +20,7 @@ last_modified_at: 2022-04-27
 - Visual Studio 에서 jupyter lab 실행하는 방법을 알아보자
     - 보고자하는 폴더에서 Visual Stidio를 실행한다.
         - 실행방법
-        - 폴더를 오른쪽 마우스로 클릭하여 git bash 실핼
+        - 폴더를 오른쪽 마우스로 클릭하여 gitbash 실핼
         
         
     ![Untitled](https://user-images.githubusercontent.com/101306770/165431216-11fcd9f3-ed69-4e74-a759-6eaf855cce43.png)
