@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Min's의 야금야금 개발하는 블로그 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Min Kim
+name                     : "Min Kim"
 description              : "무에서 유를 창조하는 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Min Kim"
   avatar           : "https://user-images.githubusercontent.com/101306770/165473187-4244f591-1e58-45ce-8a8e-3aacca26ca44.png"
-  bio              : "안녕하세요 ~"
+  bio              :  ###
   # location         : "Somewhere"
   email            :
   links:
