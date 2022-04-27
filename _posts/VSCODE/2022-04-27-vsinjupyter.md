@@ -5,7 +5,7 @@ excerpt : "Jupyterlab을 실행해본다."
 categories:
   - Vscode
 tags:
-  - 
+  - Vscode
 
 toc: true
 toc_sticky: true

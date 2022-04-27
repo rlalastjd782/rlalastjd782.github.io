@@ -5,7 +5,7 @@ excerpt : "JAVA를 설치한다."
 categories:
   - Java
 tags:
-  - 
+  - Java
 
 toc: true
 toc_sticky: true
