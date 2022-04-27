@@ -1,7 +1,7 @@
 ---
 title: "Java"
 layout: archive
-permalink: categories/PJava
+permalink: categories/Java
 sidebar_main: true
 ---
 
@@ -9,5 +9,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Algorithm Lesson 1'] %}
+{% assign posts = site.categories.Java %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

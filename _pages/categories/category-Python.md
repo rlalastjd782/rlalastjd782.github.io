@@ -9,5 +9,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Algorithm Lesson 1'] %}
+{% assign posts = site.categories.Python %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
