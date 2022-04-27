@@ -12,7 +12,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python" %}
-                        <li><a href="/categories/Python" class="">Python</a></li>
+                        <li><a href="/categories/Python" class="">Python ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -21,7 +21,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Java" %}
-                        <li><a href="/categories/Java" class="">Java</a></li>
+                        <li><a href="/categories/Java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -30,7 +30,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Pyspark" %}
-                        <li><a href="/categories/Pyspark" class="">Pyspark</a></li>
+                        <li><a href="/categories/Pyspark" class="">Pyspark ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -39,7 +39,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Vscode" %}
-                        <li><a href="/categories/Vscode" class="">Vscode</a></li>
+                        <li><a href="/categories/Vscode" class="">Vscode ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
