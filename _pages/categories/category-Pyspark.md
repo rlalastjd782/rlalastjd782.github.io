@@ -2,6 +2,7 @@
 title: "Pyspark"
 layout: archive
 permalink: categories/Pyspark
+author_profile: true
 sidebar_main: true
 ---
 

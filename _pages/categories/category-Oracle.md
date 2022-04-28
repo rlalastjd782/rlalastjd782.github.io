@@ -2,6 +2,7 @@
 title: "Oracle"
 layout: archive
 permalink: categories/Oracle
+author_profile: true
 sidebar_main: true
 ---
 
