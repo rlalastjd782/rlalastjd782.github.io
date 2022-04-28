@@ -43,11 +43,11 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <span class="nav__sub-title">Orcle</span>
+            <span class="nav__sub-title">Oracle</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Orcle" %}
-                        <li><a href="/categories/Orcle" class="">Orcle ({{category[1].size}})</a></li>
+                    {% if category[0] == "Oracle" %}
+                        <li><a href="/categories/Oracle" class="">Orcle ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
