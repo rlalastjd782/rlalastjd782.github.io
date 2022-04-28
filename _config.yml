@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-       url: "https://rlalastjd782.github.io/"
+      url: "https://rlalastjd782.github.io/"
     #- label: "Bitbucket"
     #  icon: "fab fa-fw fa-bitbucket"
       # url:
