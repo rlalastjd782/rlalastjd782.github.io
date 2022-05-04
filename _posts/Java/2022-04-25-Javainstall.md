@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
  
 date: 2022-04-25
-last_modified_at: 2022-04-25
+last_modified_at: 2022-05-04
 ---
 
 # JAVA 설치
@@ -20,8 +20,31 @@ last_modified_at: 2022-04-25
     - 8버전 설치시에 주의점
     - 꼭 윈도우에 jdk jre 파일 만둔 후 진행
     - 이유 : 경로에 공란이 있을 경우 어떤 문제가 벌어질지 모르기때문에 문제를 아예 제외하는것임
+    - 경로에는 꼭 영어로된 경로만 있을 것 
+    - 경로중에 공란이있다면 새로운 폴더를 만들어 진행한다.
     - 자바 다운로드시 오라클에 회원가입을 해야 할 수도 있음을 명시한다.
-    - 윈도우 64bit 에서는 x64로 된 프로그램을 설치한다.(32비트는 x86으로 설치하면된다.)
+    - 어디까지나 참고용 자료이다.
+    
+
+
+- C 드라이브에 jdk 및 jre 폴더를 만든다
+
+![image](https://user-images.githubusercontent.com/101306770/166612304-83193422-2194-4f12-b8af-c8968f743713.png)
+
+![image](https://user-images.githubusercontent.com/101306770/166612212-5d034a21-9fd7-4370-9b45-ff5236275da3.png)
+
+
+- goole 검색에 java development kit 검색
+![image](https://user-images.githubusercontent.com/101306770/166612386-dc1e0911-9b7b-4c61-9b73-4ffad3bcb338.png)
+
+- java downloads 를 클릭하게 되면 아래와 같은 페이지가 나온다
+
+![image](https://user-images.githubusercontent.com/101306770/166612441-6407f432-5fbf-40fe-aeb0-d74ae70ddbc2.png)
+
+
+- 필요한 버전을 다운로드한다.
+- 다운로드시 오라클 회원가입을 해야 할수도 있다.
+- 윈도우 64bit 에서는 x64로 된 프로그램을 설치한다.(32비트는 x86으로 설치하면된다.)
 
 ![Untitled](https://user-images.githubusercontent.com/101306770/165013777-929e9017-6c5d-4edc-821e-2790a274f636.png)
 
