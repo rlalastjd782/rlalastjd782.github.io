@@ -66,6 +66,13 @@
                         <li><a href="/categories/AI" class="">AI ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+        <span class="nav__sub-title">AI</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Javascript" %}
+                        <li><a href="/categories/Javascript" class="">Javascript ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
             </ul>
          </li>
   </ul>
