@@ -13,7 +13,7 @@ toc_sticky: true
 date: 2022-06-15
 last_modified_at: 2022-06-15
 ---
-# Java 기초
+# Java 기초.
 
 - 자바 기초에 대해 알아보자.
     - 참고자료 점프 투 파이썬(박응용)
