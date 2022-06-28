@@ -80,7 +80,8 @@
                     {% if category[0] == "JSP" %}
                         <li><a href="/categories/JSP" class="">JSP ({{category[1].size}})</a></li>
                     {% endif %}
-                {% endfor %}    
+                {% endfor %}   
+            </ul> 
          </li>
   </ul>
 </nav>
