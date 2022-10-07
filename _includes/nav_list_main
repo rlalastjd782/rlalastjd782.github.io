@@ -91,6 +91,13 @@
           {% endif %}
           {% endfor %}
         </ul>
+        <ul>
+          {% for category in site.categories %}
+          {% if category[0] == "Mysql" %}
+          <li><a href="/categories/Mysql" class="">Mysql ({{category[1].size}})</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
 
     </li>
 
