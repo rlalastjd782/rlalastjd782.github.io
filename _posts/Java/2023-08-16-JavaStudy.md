@@ -1,6 +1,6 @@
 ---
-title:  "JAVA JSONObject"
-excerpt : "JSONObject"
+title:  "JAVA 어노테이션"
+excerpt : "@Compenet"
 
 categories:
   - Java
